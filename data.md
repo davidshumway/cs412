@@ -19,3 +19,9 @@ Each imagery zip file is for one part of the state.
 Each zip file contains one .sid image(?) file.
 
 There is a 15 gb download limit (daily?) on box.com.
+
+MrSID is a compression scheme created by LizardTech. More information on MrSID is available via LizardTech paper or Wikipedia:
+
+https://doc.lizardtech.com/files/mrsid/MrSID_White_Paper.pdf
+
+https://en.wikipedia.org/wiki/MrSID
