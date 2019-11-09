@@ -30,7 +30,9 @@ Instructions for converting .sid to .tiff are available at:
 
 http://www.paulnorman.ca/blog/2011/03/converting-mrsid-to-geotiff/
 
-1) Download MrSID SDK. 2) Ensure that GDAL is installed on the system (occasionally included de facto in Linux). 3) Convert to .tif:
+1. Download MrSID SDK.
+2. Ensure that GDAL is installed on the system (occasionally included de facto in Linux).
+3. Convert to .tif:
 
 > $ ./mrsiddecode -wf -i /home/dave/Downloads/ortho_1-1_hc_s_nm028_2018_1/ortho_1-1_hc_s_nm028_2018_1.sid -o test.tif
 
