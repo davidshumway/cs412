@@ -15,3 +15,5 @@ Each state listed may have _c and _n imagery (unsure of difference).
 Each imagery zip file is for one part of the state.
 
 Each zip file contains one .sid image(?) file.
+
+There is a 15 gb download limit (daily?) on box.com.
