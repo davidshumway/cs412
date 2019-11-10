@@ -6,3 +6,5 @@ GLADD-R: A new Global Lake Dynamics Database for Reservoirs, online at (https://
 Ordering Constraint Among Data Instances", online at (http://climatechange.cs.umn.edu/docs/Khandelwal-ICDM-2015.pdf).
 
 Recognizing Global Reservoirs From Landsat 8 Images: A Deep Learning Approach, online at (https://ieeexplore-ieee-org.proxy.cc.uic.edu/document/8804226).
+
+Github search for "convolutional neural network" "satellite": (https://github.com/search?q=%22convolutional+neural+network%22+%22satellite%22).
