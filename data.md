@@ -41,3 +41,24 @@ For example, this converts a compressed .sid file (170 MB) into an uncompressed 
 We now have a GeoTiff* file that may be used with geo-polygons to train a CNN. For example, here: (https://github.com/PlatformStories/train-cnn-classifier).
 
 \* Ritter, N., Ruth, M., Grissom, B. B., Galang, G., Haller, J., Stephenson, G., ... & Messina, J. (2000). Geotiff format specification geotiff revision 1.0. SPOT Image Corp.
+
+### GRanD dataset (Reservoir and Dam Polygons)
+
+Dataset is available here:
+
+http://globaldamwatch.org/data/#core_global
+
+Latest version is 1.3 (2019).
+
+Dataset shape files:
+
+1. Reservoirs: GRanD_reservoirs_v1_3.shp (65 MB)
+2. Dams: GRanD_dams_v1_3.shp (205 KB)
+
+Dataset documentation: GRanD_Technical_Documentation_v1_3.pdf
+
+
+
+
+
+
