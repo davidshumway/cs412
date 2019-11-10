@@ -34,7 +34,9 @@ http://www.paulnorman.ca/blog/2011/03/converting-mrsid-to-geotiff/
 2. Ensure that GDAL is installed on the system (occasionally included de facto in Linux).
 3. Convert to .tif:
 
-`$ ./mrsiddecode -wf -i /home/dave/Downloads/ortho_1-1_hc_s_nm028_2018_1/ortho_1-1_hc_s_nm028_2018_1.sid -o test.tif`
+```
+$ ./mrsiddecode -wf -i ortho_1-1_hc_s_nm028_2018_1.sid -o test.tif
+```
 
 For example, this converts a compressed .sid file (170 MB) into an uncompressed .tif file (6.8 GB).
 
@@ -59,9 +61,10 @@ Dataset documentation: GRanD_Technical_Documentation_v1_3.pdf
 
 Convert the shape files to geojson:
 
-`$ ogr2ogr -f GeoJSON -t_srs crs:84 GRanD_reservoirs_v1_3.geojson GRanD_reservoirs_v1_3.shp
-
-$ ogr2ogr -f GeoJSON -t_srs crs:84 GRanD_dams_v1_3.geojson GRanD_dams_v1_3.shp`
+```
+$ ogr2ogr -f GeoJSON -t_srs crs:84 GRanD_reservoirs_v1_3.geojson GRanD_reservoirs_v1_3.shp
+$ ogr2ogr -f GeoJSON -t_srs crs:84 GRanD_dams_v1_3.geojson GRanD_dams_v1_3.shp
+```
 
 
 
