@@ -38,4 +38,6 @@ http://www.paulnorman.ca/blog/2011/03/converting-mrsid-to-geotiff/
 
 For example, this converts a compressed .sid file (170 MB) into an uncompressed .tif file (6.8 GB).
 
-We now have a GeoTiff file that may be used with geo-polygons to train a CNN. For example, here: (https://github.com/PlatformStories/train-cnn-classifier).
+We now have a GeoTiff* file that may be used with geo-polygons to train a CNN. For example, here: (https://github.com/PlatformStories/train-cnn-classifier).
+
+* Ritter, N., Ruth, M., Grissom, B. B., Galang, G., Haller, J., Stephenson, G., ... & Messina, J. (2000). Geotiff format specification geotiff revision 1.0. SPOT Image Corp.
