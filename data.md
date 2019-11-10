@@ -37,3 +37,5 @@ http://www.paulnorman.ca/blog/2011/03/converting-mrsid-to-geotiff/
 > $ ./mrsiddecode -wf -i /home/dave/Downloads/ortho_1-1_hc_s_nm028_2018_1/ortho_1-1_hc_s_nm028_2018_1.sid -o test.tif
 
 For example, this converts a compressed .sid file (170 MB) into an uncompressed .tif file (6.8 GB).
+
+We now have a GeoTiff file that may be used with geo-polygons to train a CNN. For example, here: (https://github.com/PlatformStories/train-cnn-classifier).
