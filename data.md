@@ -40,7 +40,7 @@ $ ./mrsiddecode -wf -i ortho_1-1_hc_s_nm028_2018_1.sid -o test.tif
 
 For example, this converts a compressed .sid file (170 MB) into an uncompressed .tif file (6.8 GB).
 
-We now have a GeoTiff* file that may be used with geo-polygons to train a CNN. For example, here: (https://github.com/PlatformStories/train-cnn-classifier).
+We now have a GeoTiff* file that may be used with polygons (.shp files) to train a CNN.
 
 \* Ritter, N., Ruth, M., Grissom, B. B., Galang, G., Haller, J., Stephenson, G., ... & Messina, J. (2000). Geotiff format specification geotiff revision 1.0. SPOT Image Corp.
 
