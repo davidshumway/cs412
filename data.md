@@ -57,6 +57,11 @@ Dataset shape files:
 
 Dataset documentation: GRanD_Technical_Documentation_v1_3.pdf
 
+Convert the shape files to geojson:
+
+> $ ogr2ogr -f GeoJSON -t_srs crs:84 GRanD_reservoirs_v1_3.geojson GRanD_reservoirs_v1_3.shp
+> $ ogr2ogr -f GeoJSON -t_srs crs:84 GRanD_dams_v1_3.geojson GRanD_dams_v1_3.shp
+
 
 
 
