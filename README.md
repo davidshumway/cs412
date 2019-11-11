@@ -8,3 +8,11 @@ Ordering Constraint Among Data Instances", online at (http://climatechange.cs.um
 Recognizing Global Reservoirs From Landsat 8 Images: A Deep Learning Approach, online at (https://ieeexplore-ieee-org.proxy.cc.uic.edu/document/8804226).
 
 Github search for "convolutional neural network" "satellite": (https://github.com/search?q=%22convolutional+neural+network%22+%22satellite%22).
+
+### Tutorials
+
+Lessons in GIS, specifically starting with lesson 6 on RasterIO:
+https://automating-gis-processes.github.io/CSC18/lessons
+
+Masking a raster using a shapefile:
+https://rasterio.readthedocs.io/en/stable/topics/masking-by-shapefile.html
