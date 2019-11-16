@@ -12,7 +12,7 @@ Github search for "convolutional neural network" "satellite": (https://github.co
 ### Tutorials
 
 Lessons in GIS, specifically starting with lesson 6 on RasterIO:
-https://automating-gis-processes.github.io/CSC18/lessons
+https://automating-gis-processes.github.io/CSC18/lessons/L6/overview.html
 
 Masking a raster using a shapefile:
 https://rasterio.readthedocs.io/en/stable/topics/masking-by-shapefile.html
