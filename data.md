@@ -66,6 +66,12 @@ $ ogr2ogr -f GeoJSON -t_srs crs:84 GRanD_reservoirs_v1_3.geojson GRanD_reservoir
 $ ogr2ogr -f GeoJSON -t_srs crs:84 GRanD_dams_v1_3.geojson GRanD_dams_v1_3.shp
 ```
 
+Or, for example, GPKG:
+
+```
+$ ogr2ogr -f GPKG GRanD_res_gpkg.gpkg GRanD_reservoirs_v1_3.shp
+```
+
 
 
 
