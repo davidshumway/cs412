@@ -16,3 +16,6 @@ https://automating-gis-processes.github.io/CSC18/lessons/L6/overview.html
 
 Masking a raster using a shapefile:
 https://rasterio.readthedocs.io/en/stable/topics/masking-by-shapefile.html
+
+Someone else's implementation of reading GeoTiff data:
+https://gist.github.com/jkatagi/a1207eee32463efd06fb57676dcf86c8
