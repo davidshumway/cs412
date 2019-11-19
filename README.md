@@ -19,3 +19,7 @@ https://rasterio.readthedocs.io/en/stable/topics/masking-by-shapefile.html
 
 Someone else's implementation of reading GeoTiff data:
 https://gist.github.com/jkatagi/a1207eee32463efd06fb57676dcf86c8
+
+How to Segment Buildings on Drone Imagery with Fast.ai & Cloud-Native GeoData Tools
+https://medium.com/@anthropoco/how-to-segment-buildings-on-drone-imagery-with-fast-ai-cloud-native-geodata-tools-ae249612c321
+Example utilizing fast.ai (segmentation, U-net)
