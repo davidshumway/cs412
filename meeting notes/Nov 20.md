@@ -4,8 +4,6 @@ NAIP is 1-meter per pixel.
 
 Trained models to consider: ResNet-50, Alexnet, VGG16
 
-Alex (task): Create basic CNN (with bad accuracy) to start.
-
 We can use 500x500 imagery.
 
 87 sample tagged images (0 or 1) are 5000x5000 pixels.
@@ -20,6 +18,8 @@ David (question): What is input/output of test in Alex's CNN model? That is, do 
 Other questions: ...................
 
 ### Tasks / todos
+Alex (task): Create basic CNN (with bad accuracy) to start.
+
 Shuyu (task): Downsample 87 sample images to 500x500 for Alex to use in basic CNN ("first attempt").
 
 Shuyu, Nitya, Ramana (task): Tag 500x500 images. (How many....?) Complete by .... this weekend?
