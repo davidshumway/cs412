@@ -24,9 +24,9 @@ https://rasterio.readthedocs.io/en/stable/topics/masking-by-shapefile.html
 Someone else's implementation of reading GeoTiff data:  
 https://gist.github.com/jkatagi/a1207eee32463efd06fb57676dcf86c8
 
-How to Segment Buildings on Drone Imagery with Fast.ai & Cloud-Native GeoData Tools:  
-https://medium.com/@anthropoco/how-to-segment-buildings-on-drone-imagery-with-fast-ai-cloud-native-geodata-tools-ae249612c321  
-Example utilizing fast.ai, segmentation, U-net. Jupyter notebook version here: (https://nbviewer.jupyter.org/github/daveluo/zanzibar-aerial-mapping/blob/master/geo_fastai_tutorial01_public_v1.ipynb).
+How to Segment Buildings on Drone Imagery with Fast.ai & Cloud-Native GeoData Tools (Jupyter notebook link):  
+https://nbviewer.jupyter.org/github/daveluo/zanzibar-aerial-mapping/blob/master/geo_fastai_tutorial01_public_v1.ipynb
+Original (slow loading) article is here: (https://medium.com/@anthropoco/how-to-segment-buildings-on-drone-imagery-with-fast-ai-cloud-native-geodata-tools-ae249612c321). Example utilizing fast.ai, segmentation, U-net.
 
 WaterNet:  
 https://github.com/treigerm/WaterNet/blob/master/README.md
