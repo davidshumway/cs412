@@ -2,7 +2,7 @@ Keras will apply many operations on its own to increasing the training set (e.g.
 
 NAIP is 1-meter per pixel.
 
-Trained models to consider: ResNet-50, Alexnet, VGG16
+Trained models to consider: ResNet-50, Alexnet, VGG16.
 
 We can use 500x500 imagery.
 
