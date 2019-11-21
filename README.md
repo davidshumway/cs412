@@ -26,7 +26,7 @@ https://gist.github.com/jkatagi/a1207eee32463efd06fb57676dcf86c8
 
 How to Segment Buildings on Drone Imagery with Fast.ai & Cloud-Native GeoData Tools:  
 https://nbviewer.jupyter.org/github/daveluo/zanzibar-aerial-mapping/blob/master/geo_fastai_tutorial01_public_v1.ipynb
-Updated link to Jupyter notebook, which is much more useful than original medium.com link and even the Google co-lab link. (Google co-lab notebook is ridiculously slow to use!?). Original (slow loading) article is here: (https://medium.com/@anthropoco/how-to-segment-buildings-on-drone-imagery-with-fast-ai-cloud-native-geodata-tools-ae249612c321). Example utilizing pytorch, fastai, segmentation, U-net. Uses .geojson polygons for ground truth, .geotiff imagery, 7cm drone image resolution, 256x256 tiling,
+Updated link to Jupyter notebook, which is much more useful than original medium.com link and even the Google co-lab link. (Google co-lab notebook is ridiculously slow to use!?). Original (slow loading) article is here: (https://medium.com/@anthropoco/how-to-segment-buildings-on-drone-imagery-with-fast-ai-cloud-native-geodata-tools-ae249612c321). Utilizes pytorch, fastai, segmentation, U-net. Uses .geojson polygons for ground truth, .geotiff imagery, 7cm drone image resolution, 256x256 tiling,
 
 WaterNet:  
 https://github.com/treigerm/WaterNet/blob/master/README.md
