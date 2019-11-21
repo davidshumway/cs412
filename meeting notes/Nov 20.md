@@ -13,7 +13,7 @@ Approximately 30% have reservoir, 70% not reservoir.
 
 David: Ideally, we would draw polygons around reservoirs. Then during pre-processing, script would automatically, e.g., select 500x500 rectangles surrounding all reservoirs, as well as a bunch of 500x500 rectangles which do not include reservoirs.
 
-David (question): What is input/output of test in Alex's CNN model? That is, do we pass in 1) 500x500 rectangles, or 2) whole map? Does CNN predict 500x500 rectangles which contain reservoir? Does CNN need segments of entire map (e.g., by using FishNet) into 500x500 rectangles? In this case, should we segment map into different partitioning schemes (e.g., in one batch of test starting point is 0,0; in second batch, starting point is 0,100; third batch is 100,100; etc., all the way to 400,500 or conversely 500,400).
+David (question): What is input/output of test in Alex's CNN model? That is, for input, does CNN get 1) 500x500 rectangles, or 2) whole map? For output, does CNN predict 500x500 rectangles which contain reservoir? Does CNN therefore need segments of entire map (e.g., using FishNet) into 500x500 rectangles? In this case, should we segment map into different partitioning schemes (e.g., in one batch of test starting point is 0,0; in second batch, starting point is 0,100; third batch is 100,100; etc., all the way to 400,500 or conversely 500,400).
 
 Other questions: ...................
 
