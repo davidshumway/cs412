@@ -6,9 +6,9 @@ Trained models to consider: ResNet-50, Alexnet, VGG16.
 
 We can use 500x500 imagery.
 
-87 sample tagged images (0 or 1) are 5000x5000 pixels.
-Idea: Downsample to smaller for first test.
-Approximately 70,000 kb per sample image.
+87 sample tagged images (0 or 1) are 5000x5000 pixels.  
+Idea: Downsample to smaller for first test.  
+Approximately 70,000 kb per sample image.  
 Approximately 30% have reservoir, 70% not reservoir.
 
 David: Ideally, we would draw polygons around reservoirs. Then during pre-processing, script would automatically, e.g., select 500x500 rectangles surrounding all reservoirs, as well as a bunch of 500x500 rectangles which do not include reservoirs.
