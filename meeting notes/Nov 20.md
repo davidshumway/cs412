@@ -26,7 +26,7 @@ Shuyu, Nitya, Ramana (task): Tag 500x500 images. (How many....?) Complete by ...
 
 David (task): Try tutorial "How to Segment Buildings on Drone Imagery with Fast.ai & Cloud-Native GeoData Tools" and/or further discuss with Vignesh this idea.
 
-Shreya (task): Stay up to speed on everyone's progress? Review Google mapping API for final map of small reservoirs. For example, review here: (https://www.w3schools.com/graphics/google_maps_intro.asp). In particular, section on *markers*. Alco can review Google Maps platform here: (https://developers.google.com/maps/gmp-get-started).
+Shreya (task): Stay up to speed on everyone's progress? Review Google mapping API for final map of small reservoirs. For example, review here: (https://www.w3schools.com/graphics/google_maps_intro.asp). In particular, section on *markers*. Also can review Google Maps platform here: (https://developers.google.com/maps/gmp-get-started).
 
 Other todos:
 * Final report
